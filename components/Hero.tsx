@@ -71,7 +71,7 @@ export default function Hero() {
           </h1>
           <DynamicCountdown />
           <p className="mt-6 text-lg leading-8 text-black">
-            Dapatkan potongan harga untuk pemesanan sebelum tanggal 10 Juni 2024
+            Dapatkan potongan harga untuk pemesanan sebelum tanggal 15 Juni 2024
           </p>
           <div className="mt-10 flex items-center gap-x-6">
             <a

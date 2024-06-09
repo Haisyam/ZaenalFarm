@@ -8,7 +8,7 @@ export default function CallToAction() {
             Ayo pesan sekarang.
           </h2>
           <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600">
-            Dapatkan potongan harga untuk pemesanan sebelum tanggal 10 Juni 2024
+            Dapatkan potongan harga untuk pemesanan sebelum tanggal 15 Juni 2024
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
             <a

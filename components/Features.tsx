@@ -4,7 +4,7 @@ const features = [
   {
     name: "Domba",
     description:
-      "Kami menyediakan domba jenis Priangan, Garut, Lokal, atau menyesuaikan ketersediaan.",
+      "Kami menyediakan domba jenis Garut, Lokal, atau menyesuaikan ketersediaan.",
     svg: "/svgs/sheep.svg",
   },
   // {
@@ -16,7 +16,7 @@ const features = [
   {
     name: "Gratis Ongkir",
     description:
-      "Harga hewan sudah termasuk gratis ongkir untuk wilayah kota Jabodetabek. Di luar itu, akan ada biaya tambahan.",
+      "Harga hewan sudah termasuk gratis ongkir untuk wilayah Ligung. Di luar itu, akan ada biaya tambahan.",
     svg: "/svgs/truck.svg",
   },
   {
